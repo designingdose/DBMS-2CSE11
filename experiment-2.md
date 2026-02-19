@@ -1,4 +1,5 @@
 <h1 align="center"> Experiment 2 </h1>
+
 ## Aim
 To retrieve data from relational tables using various SQL SELECT statements and apply different filtering, sorting, and expression techniques.
 

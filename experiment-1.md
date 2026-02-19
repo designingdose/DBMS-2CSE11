@@ -13,7 +13,8 @@ Create a `Employee_Master` table and display all records from it.
 ### Query
 
 ```sql
-CREATE TABLE EMPLOYEE_MASTER AS SELECT * FROM EMPLOYEE;
+CREATE TABLE EMPLOYEE_MASTER AS
+SELECT * FROM EMPLOYEE;
 ```
 
 ### Query

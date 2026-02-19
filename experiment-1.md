@@ -1,4 +1,4 @@
-<center><h1>Experiment 1</h1></center>
+<h1 align="center"> Experiment 1 </h1>
 
 ## Aim
 To create table Employee_Master from Employee table and perform basic SQL operations such as INSERT, SELECT, UPDATE, and DELETE.
